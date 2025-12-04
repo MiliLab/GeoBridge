@@ -83,7 +83,7 @@ Coming Soon.
 
 ## ⭐ Citation
 
-If you find GeoZero helpful, please give a ⭐ and cite it as follows:
+If you find GeoBridge helpful, please give a ⭐ and cite it as follows:
 
 ```
 @misc{song2025geobridgesemanticanchoredmultiviewfoundation,
@@ -101,8 +101,4 @@ If you find GeoZero helpful, please give a ⭐ and cite it as follows:
 
 For any other questions please contact Zixuan Song at [jlu.edu.cn](songzx24@mails.jlu.edu.cn) or [gmail.com](estrellaluminous@gmail.com).
 
-
-## 💖 Thanks
-Coming Soon.
-<!-- This project is based on [PSALM](https://github.com/zamling/PSALM), [SegEarth-R1](https://github.com/earth-insights/SegEarth-R1),  Thanks for their wonderful work!<br> -->
 
