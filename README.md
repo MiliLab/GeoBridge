@@ -86,7 +86,15 @@ Coming Soon.
 If you find GeoZero helpful, please give a ⭐ and cite it as follows:
 
 ```
-
+@misc{song2025geobridgesemanticanchoredmultiviewfoundation,
+      title={GeoBridge: A Semantic-Anchored Multi-View Foundation Model Bridging Images and Text for Geo-Localization}, 
+      author={Zixuan Song and Jing Zhang and Di Wang and Zidie Zhou and Wenbin Liu and Haonan Guo and En Wang and Bo Du},
+      year={2025},
+      eprint={2512.02697},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2512.02697}, 
+}
 ```
 
 ## 🎺 Statement
