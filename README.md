@@ -31,7 +31,7 @@ Bo Du<sup>2,3 †</sup>.
 ## 🔥 Update
 
 **2025.11.28**
-- The paper is post on arXiv! **([arXiv GeoBridge](https://arxiv.org/abs/1111,11111))** 
+- The paper is post on arXiv! **([arXiv GeoBridge](http://arxiv.org/abs/2512.02697))** 
 
 ## 🌞 Abstract
 
