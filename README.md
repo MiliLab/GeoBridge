@@ -30,6 +30,9 @@ Bo Du<sup>2,3 †</sup>.
 
 ## 🔥 Update
 
+**2026.2.21**
+- The paper is accepted by **CVPR 2026**! 🎉
+
 **2025.12.3**
 - The paper is post on arXiv! **([arXiv GeoBridge](http://arxiv.org/abs/2512.02697))** 
 
