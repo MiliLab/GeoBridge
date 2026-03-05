@@ -102,6 +102,6 @@ If you find GeoBridge helpful, please give a ⭐ and cite it as follows:
 
 ## 🎺 Statement
 
-For any other questions please contact Zixuan Song at [jlu.edu.cn](songzx24@mails.jlu.edu.cn) or [gmail.com](estrellaluminous@gmail.com).
+For any other questions please contact [Zixuan Song](https://github.com/ssssx) at [jlu.edu.cn](songzx24@mails.jlu.edu.cn) or [gmail.com](estrellaluminous@gmail.com).
 
 
