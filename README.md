@@ -30,6 +30,9 @@ Bo Du<sup>2,3 †</sup>.
 
 ## 🔥 Update
 
+**2026.3.26**
+- Code is now available.
+
 **2026.2.21**
 - The paper is accepted by **CVPR 2026**! 🎉
 
