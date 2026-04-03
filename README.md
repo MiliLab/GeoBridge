@@ -104,6 +104,25 @@ checkpoints/
 ├── opts.yaml
 └── best_net.pth
 ```
+### Evaluation
+Supported evaluation settings include:
+
+- drone ↔ satellite retrieval
+- street ↔ satellite retrieval
+- satellite ↔ street retrieval
+- text → image retrieval
+
+### Example Tasks
+GeoBridge supports the following tasks:
+
+1. **Cross-view geo-localization**  
+   Retrieve geographically matched reference images across different views.
+
+2. **Bidirectional image retrieval**  
+   Perform retrieval between drone, satellite, and street-view imagery.
+
+3. **Language-to-image retrieval**  
+   Use natural language descriptions to retrieve semantically aligned geo-images.
 
 ## 🍭 Results
 
