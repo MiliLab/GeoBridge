@@ -77,7 +77,25 @@ Coming Soon.
 
 ## 🔨 Usage
 
-Coming Soon.
+### Data Preparation
+
+Please organize the dataset as follows:
+
+```text
+data/
+├── train/
+│   ├── drone/
+│   ├── satellite/
+│   └── street/
+├── val/
+│   ├── drone/
+│   ├── satellite/
+│   └── street/
+└── test/
+    ├── drone/
+    ├── satellite/
+    └── street/
+```
 
 ## 🍭 Results
 
