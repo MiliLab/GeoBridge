@@ -96,6 +96,14 @@ data/
     ├── satellite/
     └── street/
 ```
+### Checkpoints
+Please download the pretrained checkpoints and place them under:
+
+```text
+checkpoints/
+├── opts.yaml
+└── best_net.pth
+```
 
 ## 🍭 Results
 
