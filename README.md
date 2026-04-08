@@ -22,13 +22,16 @@ Bo Du<sup>2,3 †</sup>.
   <a href="#-update">Update</a> |
   <a href="#-abstract">Abstract</a> |
   <a href="#-datasets">Datasets</a> |
-  <a href="#-models">Models</a> |
+  <a href="#-model">Model</a> |
   <a href="#-usage">Usage</a> |
   <a href="#-statement">Statement</a>
 </p >
 
 
 ## 🔥 Update
+
+**2026.04.08**
+- The model is now available.
 
 **2026.3.26**
 - Code is now available.
@@ -69,11 +72,10 @@ Cross-view geo-localization infers a location by retrieving geo-tagged reference
 
 Coming Soon.
 
-## 🚀 Models
+## 🚀 Model
 
-Coming Soon.
-
-
+The GeoBridge model is now available on Hugging Face: **[Son12s/GeoBridge](https://huggingface.co/Son12s/GeoBridge)**.
+Please visit the repository page for download and usage details.
 
 ## 🔨 Usage
 
