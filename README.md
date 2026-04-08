@@ -33,13 +33,13 @@ Bo Du<sup>2,3 †</sup>.
 **2026.04.08**
 - The model is now available.
 
-**2026.3.26**
+**2026.03.26**
 - Code is now available.
 
-**2026.2.21**
+**2026.02.21**
 - The paper is accepted by **CVPR 2026**! 🎉
 
-**2025.12.3**
+**2025.12.03**
 - The paper is post on arXiv! **([arXiv GeoBridge](http://arxiv.org/abs/2512.02697))** 
 
 ## 🌞 Abstract
