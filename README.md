@@ -85,7 +85,7 @@ The GeoLoc dataset is a large-scale multi-view and cross-modal geo-localization 
 The drone imagery in our dataset is derived from publicly available and open-access sources.  
 We will release the **processed drone-image subset** used in this project after dataset organization is completed.
 
-The processing pipeline, filtering strategy, and cross-view alignment details are described in the **main paper** and the **supplementary material **.
+The processing pipeline, filtering strategy, and cross-view alignment details are described in the **main paper** and the **supplementary material**.
 
 Due to the usage policies and service terms associated with **Google Street View** and related **Google Maps Platform** services, we **cannot directly redistribute the street-view and satellite images** collected from Google services. Therefore, these images will **not** be included in the public dataset release. Researchers who wish to reconstruct the complete multi-view data may use the official Google APIs, subject to Google’s applicable policies and terms.
 
