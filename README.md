@@ -29,6 +29,10 @@ Bo Du<sup>2,3 †</sup>.
 
 
 ## 🔥 Update
+
+**2026.09.23**
+- The extended journal version, **GeoBridge++: Fact-Guided Geo-Semantic Bridging for Unified Cross-View Geo-Localization**, is now available.
+
 **2026.05.14**
 - The dataset is now available.
 
@@ -155,13 +159,28 @@ GeoBridge supports the following tasks:
 
 ## ⭐ Citation
 
-If you find GeoBridge helpful, please give a ⭐ and cite it as follows:
+If you find GeoBridge or its extended version GeoBridge++ helpful for your research, please consider giving this repository a ⭐ and citing the corresponding paper.
+
+**GeoBridge** 
 
 ```
-@misc{song2025geobridgesemanticanchoredmultiviewfoundation,
-      title={GeoBridge: A Semantic-Anchored Multi-View Foundation Model Bridging Images and Text for Geo-Localization}, 
-      author={Zixuan Song and Jing Zhang and Di Wang and Zidie Zhou and Wenbin Liu and Haonan Guo and En Wang and Bo Du},
-      year={2025},
+@inproceedings{song2026geobridge,
+  title={Geobridge: A semantic-anchored multi-view foundation model bridging images and text for geo-localization},
+  author={Song, Zixuan and Zhang, Jing and Wang, Di and Zhou, Zidie and Liu, Wenbin and Guo, Haonan and Wang, En and Du, Bo},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={27793--27803},
+  year={2026}
+}
+```
+**GeoBridge++ — Extended Version**
+
+GeoBridge++: Fact-Guided Geo-Semantic Bridging for Unified Cross-View Geo-Localization is an extended version of GeoBridge that further develops fact-guided geo-semantic bridging for unified cross-view geo-localization.
+
+```
+@misc{song2026geobridge++,
+      title={GeoBridge++: Fact-Guided Geo-Semantic Bridging for Unified Cross-View Geo-Localization}, 
+      author={Zixuan Song and Jing Zhang and Di Wang and Zhiming Luo and Wenbin Liu and Haonan Guo and En Wang and Bo Du and Liangpei Zhang},
+      year={2026},
       eprint={2512.02697},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
